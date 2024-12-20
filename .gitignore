@@ -1,0 +1,19 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (if needed)
+data/
+
+# Ignore model files (if they are not needed in the repository)
+models/
+
+# Ignore temporary files
+*.pyc
+__pycache__/
+
+# Ignore text embeddings (example)
+emb.txt
+new_emb.txt
