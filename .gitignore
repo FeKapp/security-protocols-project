@@ -15,5 +15,5 @@ models/
 __pycache__/
 
 # Ignore text embeddings (example)
-emb.txt
-new_emb.txt
+data/emb.txt
+data/new_emb.txt
